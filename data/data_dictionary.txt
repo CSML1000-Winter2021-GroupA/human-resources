@@ -1,0 +1,55 @@
+Monthly rate = the internal charge out rate which will be used to calculate the cost of each employee monthly, in general, the monthly rate will cover salary, social insurance, administration, logistics, over head etc.
+
+Monthly income = just how much the employee earned monthly
+
+Daily rate = the amount of money you are paid per day
+
+Percent salary hike = the % change in salary from 2016 vs 2015.
+
+Relationship satisfaction = how happy is the employee with her colleagues.
+
+Stock option level = how much company stocks you own.
+
+Education
+1 'Below College'
+2 'College'
+3 'Bachelor'
+4 'Master'
+5 'Doctor'
+
+EnvironmentSatisfaction
+1 'Low'
+2 'Medium'
+3 'High'
+4 'Very High'
+
+JobInvolvement
+1 'Low'
+2 'Medium'
+3 'High'
+4 'Very High'
+
+JobSatisfaction
+1 'Low'
+2 'Medium'
+3 'High'
+4 'Very High'
+
+PerformanceRating
+1 'Low'
+2 'Good'
+3 'Excellent'
+4 'Outstanding'
+
+RelationshipSatisfaction
+1 'Low'
+2 'Medium'
+3 'High'
+4 'Very High'
+
+WorkLifeBalance
+1 'Bad'
+2 'Good'
+3 'Better'
+4 'Best'
+

@@ -1,5 +1,5 @@
 # Predicting Employee Attrition
-Employee attribition prediction using human resources data from https://www.kaggle.com/varunbarath/human-resources
+Employee attribition prediction using human resources data from https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 ## How to Contribute
 - Clone the repository
 - Navigate to the directory using `cd human-resources`
