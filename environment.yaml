@@ -100,6 +100,7 @@ dependencies:
   - jupyter_client=6.1.7
   - jupyter_console=6.2.0
   - jupyter_core=4.6.3
+  - jupyter_server=1.0.9
   - jupyterlab=2.2.6
   - jupyterlab_pygments=0.1.2
   - jupyterlab_server=1.2.0
@@ -207,6 +208,7 @@ dependencies:
   - pytables=3.6.1
   - pytest=6.1.1
   - python=3.8.5
+  - python_abi=3.8-1
   - python-dateutil=2.8.1
   - python-jsonrpc-server=0.4.0
   - python-language-server=0.35.1
@@ -274,6 +276,7 @@ dependencies:
   - unicodecsv=0.14.1
   - urllib3=1.25.11
   - vc=14.1
+  - voila=0.2.7
   - vs2015_runtime=14.16.27012
   - watchdog=0.10.3
   - wcwidth=0.2.5
