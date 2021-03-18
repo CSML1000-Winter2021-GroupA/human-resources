@@ -34,6 +34,7 @@ jupyterlab==2.1.0
 jupyterlab_pygments==0.1.2
 jupyterlab_server==1.1.0
 jupyterlab_widgets==1.0.0
+lifelines==0.25.10
 markupsafe==1.1.1
 matplotlib==3.3.2
 mistune==0.8.4
